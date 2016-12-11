@@ -9,7 +9,7 @@
     "geom:bbox":"-92.30119,46.64924,-91.79453,46.92875",
     "geom:latitude":46.793602,
     "geom:longitude":-92.003493,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":144901160.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 7",
     "uscensus:sldust":"007",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487121,
     "wof:geomhash":"9ed0c79892046672f6d98788e3e4f7cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767913,
     "wof:lastmodified":1481487121,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

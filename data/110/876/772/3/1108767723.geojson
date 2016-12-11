@@ -9,7 +9,7 @@
     "geom:bbox":"-92.44961,43.500437,-91.217287,43.84827",
     "geom:latitude":43.672982,
     "geom:longitude":-91.852715,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3660517952.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 28B",
     "uscensus:sldlst":"28B",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487096,
     "wof:geomhash":"2e378db817e5126d7b67e3057d41eac1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767723,
     "wof:lastmodified":1481487096,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

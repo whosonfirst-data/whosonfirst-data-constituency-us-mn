@@ -9,7 +9,7 @@
     "geom:bbox":"-95.25537,44.892097,-94.7569,45.412993",
     "geom:latitude":45.19192,
     "geom:longitude":-94.986614,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1690230034.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 17B",
     "uscensus:sldlst":"17B",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487091,
     "wof:geomhash":"4492b7def88f010bb7dd4e64fc101eff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767673,
     "wof:lastmodified":1481487091,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-92.92117,44.35134,-91.97023,44.71434",
     "geom:latitude":44.474398,
     "geom:longitude":-92.564387,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1287638745.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 21A",
     "uscensus:sldlst":"21A",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487092,
     "wof:geomhash":"ea1e21818d16a03586cc2c59a010439b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767689,
     "wof:lastmodified":1481487092,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

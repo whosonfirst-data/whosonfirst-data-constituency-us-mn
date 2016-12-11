@@ -9,7 +9,7 @@
     "geom:bbox":"-94.0125,44.63456,-93.59413,44.97871",
     "geom:latitude":44.817552,
     "geom:longitude":-93.832918,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":806369895.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 47A",
     "uscensus:sldlst":"47A",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487109,
     "wof:geomhash":"385b38b8dc8091db4fb53c693980e46a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767805,
     "wof:lastmodified":1481487109,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

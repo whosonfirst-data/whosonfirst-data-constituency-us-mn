@@ -9,7 +9,7 @@
     "geom:bbox":"-93.28831,44.911991,-93.24734,44.94836",
     "geom:latitude":44.932045,
     "geom:longitude":-93.272075,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":9671538.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 62B",
     "uscensus:sldlst":"62B",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487114,
     "wof:geomhash":"d5713f2c7c6da970ee4048232d6b1810",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767875,
     "wof:lastmodified":1481487114,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

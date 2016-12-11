@@ -9,7 +9,7 @@
     "geom:bbox":"-93.28169,44.37048,-92.73189,44.74725",
     "geom:latitude":44.581954,
     "geom:longitude":-93.017747,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1046722940.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 58B",
     "uscensus:sldlst":"58B",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487112,
     "wof:geomhash":"605fd365476f80f9b06d5a8bb2a08f97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767857,
     "wof:lastmodified":1481487112,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

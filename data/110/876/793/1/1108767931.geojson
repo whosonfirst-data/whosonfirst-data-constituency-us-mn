@@ -9,7 +9,7 @@
     "geom:bbox":"-94.35316,45.31024,-93.17898,46.24715",
     "geom:latitude":45.804134,
     "geom:longitude":-93.712058,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4019603403.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 15",
     "uscensus:sldust":"015",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487124,
     "wof:geomhash":"c88c8fae6d9a82a65a3eda65c5d30ad3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767931,
     "wof:lastmodified":1481487124,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

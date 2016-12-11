@@ -9,7 +9,7 @@
     "geom:bbox":"-96.28134,46.10745,-95.53225,46.71816",
     "geom:latitude":46.437043,
     "geom:longitude":-95.956531,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2621087539.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 8A",
     "uscensus:sldlst":"08A",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487085,
     "wof:geomhash":"a0425bdc2b6f2d7aff66ef8c9cdae67f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767631,
     "wof:lastmodified":1481487085,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-93.208107,44.96287,-93.06601,45.03575",
     "geom:latitude":44.997781,
     "geom:longitude":-93.149783,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":52529877.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 66",
     "uscensus:sldust":"066",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487137,
     "wof:geomhash":"677ca1308b6aee908f0fc1f83bc81cc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108768047,
     "wof:lastmodified":1481487137,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

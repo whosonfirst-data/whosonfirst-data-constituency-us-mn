@@ -9,7 +9,7 @@
     "geom:bbox":"-93.18876,45.056567,-92.89694,45.21116",
     "geom:latitude":45.148486,
     "geom:longitude":-93.034322,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":240442295.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 38",
     "uscensus:sldust":"038",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487130,
     "wof:geomhash":"85871731948207d71e0bc88f12924041",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767983,
     "wof:lastmodified":1481487130,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

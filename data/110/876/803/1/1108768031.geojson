@@ -9,7 +9,7 @@
     "geom:bbox":"-93.32869,44.965548,-93.24539,45.05125",
     "geom:latitude":45.006363,
     "geom:longitude":-93.294408,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":31666677.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 59",
     "uscensus:sldust":"059",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487136,
     "wof:geomhash":"a80afed4b7bc862bc86727a5da5757e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108768031,
     "wof:lastmodified":1481487136,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

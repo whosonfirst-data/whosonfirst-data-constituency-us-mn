@@ -9,7 +9,7 @@
     "geom:bbox":"-96.82327,46.81195,-96.64777,46.97763",
     "geom:latitude":46.907754,
     "geom:longitude":-96.734646,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":126277970.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 4A",
     "uscensus:sldlst":"04A",
     "uscensus:statefp":"27",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487083,
     "wof:geomhash":"a5f50fb3131923f55d420134f5b9491e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688727
+        }
+    ],
     "wof:id":1108767613,
     "wof:lastmodified":1481487083,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688727,
     "wof:repo":"whosonfirst-data-constituency-us-mn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
